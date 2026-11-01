@@ -1,0 +1,16 @@
+# MATLAB autosave and cache
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.mat~
+
+# OS artifacts
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Video generation build artifacts
+node_modules/
+brag-output*/composition/node_modules/
+.cache/

@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Explicitly declare binary files to prevent LF/CRLF corruption
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.wav binary
+*.mp3 binary
+*.mat binary
