@@ -12,5 +12,7 @@ Desktop.ini
 
 # Video generation build artifacts
 node_modules/
+.hyperframes/
+**/.hyperframes/
 brag-output*/composition/node_modules/
 .cache/

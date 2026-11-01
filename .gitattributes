@@ -8,4 +8,5 @@
 *.pdf binary
 *.wav binary
 *.mp3 binary
+*.mp4 binary
 *.mat binary

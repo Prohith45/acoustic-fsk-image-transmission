@@ -9,6 +9,14 @@ An end-to-end digital communications and acoustic modem system implemented in MA
 
 ---
 
+## 🎬 Project Video Preview
+
+![Acoustic FSK Video Poster](brag-output/brag.jpg)
+
+> 📹 **Watch Video**: The complete 1080p demo launch video is available in [`brag-output/brag.mp4`](brag-output/brag.mp4).
+
+---
+
 ## 📌 System Overview
 
 Standard smartphone speakers and microphones suffer from non-linearities, room multipath reverberation, ambient acoustic noise, and oscillator clock drift (~100 ppm). This project solves these challenges by implementing:

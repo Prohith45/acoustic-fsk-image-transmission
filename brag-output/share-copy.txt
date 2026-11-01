@@ -1,0 +1,1 @@
+Beam images across the room with pure sound 🔊📡 Built an end-to-end acoustic FSK modem in MATLAB with chirp sync, Hamming FEC, and phone-to-phone over-the-air transmission: https://github.com/Prohith45/acoustic-fsk-image-transmission
